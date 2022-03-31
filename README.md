@@ -3,10 +3,8 @@
 
 
 
-![Schematic of the model developed](https://user-images.githubusercontent.com/96347878/160995543-92248cad-472d-483f-93d7-c188aa378e5c.PNG)
+![Schematic of the model developed](https://user-images.githubusercontent.com/96347878/160996781-1c4397d3-2485-4835-b1f6-d5b55301c609.PNG)
 
+![Block diagrams of the control strategies implemented](https://user-images.githubusercontent.com/96347878/160996809-b64bfcad-9eaa-4a37-9e40-bb1445752b21.PNG)
 
-![Block diagrams of the control strategies implemented](https://user-images.githubusercontent.com/96347878/160995552-0858cf47-7c8a-44d3-bce6-6b8f5dd64f85.PNG)
-
-
-![Schematic of the model developed in Simulink](https://user-images.githubusercontent.com/96347878/160995567-36ba4fef-e9a7-4304-acd8-9ba9138d76da.PNG)
+![Schematic of the model developed in Simulink](https://user-images.githubusercontent.com/96347878/160996814-3e496393-2660-41ed-8706-60f3dc8e3acd.PNG)
