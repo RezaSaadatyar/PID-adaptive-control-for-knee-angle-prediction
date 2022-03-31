@@ -1,6 +1,8 @@
 # Knee-angle-prediction-using-PID-adaptive-control-
 #### In this repository, I wrote functions related to predicting knee angles using PID/adaptive control at FES time (Matlab/Simulink).
-
+#### Matlab 2017 b
+####  Presented by: Reza Saadatyar
+#### Reza.Saadatyar@outlook.com
 
 
 ![Schematic of the model developed](https://user-images.githubusercontent.com/96347878/160996781-1c4397d3-2485-4835-b1f6-d5b55301c609.PNG)
